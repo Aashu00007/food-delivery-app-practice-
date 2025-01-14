@@ -1,0 +1,22 @@
+{
+  "name": "food-delivery-app-practice",
+  "version": "1.0.0",
+  "description": "Food delivery app ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aashu00007/food-delivery-app-practice-.git"
+  },
+  "author": "Ashutosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aashu00007/food-delivery-app-practice-/issues"
+  },
+  "homepage": "https://github.com/Aashu00007/food-delivery-app-practice-#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
